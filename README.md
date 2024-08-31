@@ -61,6 +61,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+
 ![Screenshot 2024-08-31 140603](https://github.com/user-attachments/assets/5d8fadbb-67e8-4c39-b4b9-bf74b3b70e19)
 ![Screenshot 2024-08-31 140555](https://github.com/user-attachments/assets/7fbf6c22-4c70-4239-923d-2b95fd371c35)
 ![Screenshot 2024-08-31 140546](https://github.com/user-attachments/assets/4e73de91-da8d-4a5c-8105-f852e5846ecb)
